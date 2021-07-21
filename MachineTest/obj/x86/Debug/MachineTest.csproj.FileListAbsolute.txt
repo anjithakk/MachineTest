@@ -1,0 +1,7 @@
+D:\Project\MachineTest\MachineTest\bin\Debug\MachineTest.exe
+D:\Project\MachineTest\MachineTest\bin\Debug\MachineTest.pdb
+D:\Project\MachineTest\MachineTest\obj\x86\Debug\MachineTest.frmPics.resources
+D:\Project\MachineTest\MachineTest\obj\x86\Debug\MachineTest.Properties.Resources.resources
+D:\Project\MachineTest\MachineTest\obj\x86\Debug\MachineTest.csproj.GenerateResource.Cache
+D:\Project\MachineTest\MachineTest\obj\x86\Debug\MachineTest.exe
+D:\Project\MachineTest\MachineTest\obj\x86\Debug\MachineTest.pdb
